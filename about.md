@@ -12,4 +12,4 @@ title: 关于我
 
 ## 联系我
 - 邮箱：contact@example.com
-- GitHub: [yuanzhang](https://github.com/你的用户名)
+- GitHub: [yuanzhang](https://github.com/yuan-2024)
