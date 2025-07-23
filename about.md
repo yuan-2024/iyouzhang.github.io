@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于我
-permalink: /about/
+permalink: /iyouzhang.github.io/about/
 ---
 
 ## 个人简介
