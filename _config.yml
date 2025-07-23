@@ -4,8 +4,8 @@ description: "记录学习与开发笔记"
 theme: jekyll-theme-minimal
 
 # ✅ 正确配置
-url: "https://yuan-2024.github.io"  # 仅用户名部分
-baseurl: "iyouzhang.github.io"  # 保持为空
+url: "https://yuan-2024.github.io/iyouzhang.github.io"  # 仅用户名部分
+baseurl: ""  # 保持为空
 
 # 可选添加
 author: "yuanzhang"
