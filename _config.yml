@@ -1,0 +1,8 @@
+# _config.yml
+title: "我的技术博客"  # 网站标题
+description: "记录学习与开发笔记"  # 网站描述
+theme: jekyll-theme-minimal  # 主题名称（根据选择修改）
+
+# 可选配置
+url: "https://yuan-2024.github.io/iyouzhang.github.io"  # 你的网站URL https://yuan-2024.github.io/iyouzhang.github.io/
+baseurl: ""  # 如果网站不在根目录，填写子路径
