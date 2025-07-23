@@ -12,4 +12,4 @@ title: 欢迎来到我的博客
 
 [查看最新文章](/iyouzhang.github.io/posts/)
 
-[个人介绍](/iyouzhang.github.io/about)
+[个人介绍](/iyouzhang.github.io/about/)
